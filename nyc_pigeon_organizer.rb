@@ -9,3 +9,4 @@ data.each do | first_key, all_other|
   end
 end
 x = organised_hash.keys
+data.colour
