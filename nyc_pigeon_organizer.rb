@@ -16,3 +16,4 @@ data[:colour].each do |bird_colour, name|
         organised_hash[item][:colour] << bird_colour.to_s end
       end
     end
+  end
