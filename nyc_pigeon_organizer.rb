@@ -8,4 +8,4 @@ data.each do | first_key, all_other|
     end
   end
 end
-end
+
