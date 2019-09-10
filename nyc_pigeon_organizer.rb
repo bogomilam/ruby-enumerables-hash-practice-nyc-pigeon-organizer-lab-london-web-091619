@@ -13,4 +13,6 @@ data[:colour].each do |bird_colour, name|
   name.each do |bird_name|
     x.each do |item|
       if bird_name === item 
-        organised_hash[item][:colour] << bird_colour.to_s 
+        organised_hash[item][:colour] << bird_colour.to_s end
+      end
+    end
