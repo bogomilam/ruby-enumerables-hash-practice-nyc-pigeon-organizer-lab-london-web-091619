@@ -11,3 +11,4 @@ end
 x = organised_hash.keys
 data[:colour].each do |bird_colour, name|
   name.each do |bird_name|
+    x.each do 
