@@ -9,4 +9,4 @@ data.each do | first_key, all_other|
   end
 end
 x = organised_hash.keys
-data[:colour].each do 
+data[:colour].each do |bird
